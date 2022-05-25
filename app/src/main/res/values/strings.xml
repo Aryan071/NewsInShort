@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsInShort</string>
+    <string name="newsinshort">NewsInShort</string>
+    <string name="new_heading">new_heading</string>
+    <string name="sub_heading">sub_heading</string>
+    <string name="category">category</string>
+</resources>
